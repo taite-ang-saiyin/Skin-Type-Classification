@@ -2,6 +2,8 @@
 
 This project is focused on developing machine learning models to classify skin types and detect acne. It leverages deep learning models and computer vision techniques to analyze facial images for dermatological insights.
 
+![Project Preview](htet.jpg)
+
 ## Project Structure
 
 The following describes the directory structure and key files of the project:
