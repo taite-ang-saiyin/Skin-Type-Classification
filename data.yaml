@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Melasma']
+
+roboflow:
+  workspace: artificial-future-technology
+  project: melasma_detection
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/artificial-future-technology/melasma_detection/dataset/1
